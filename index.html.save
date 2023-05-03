@@ -21,13 +21,10 @@
     </nav>
 </header>
 <main>
-    <!-- 3) TODO: Ajouter 2 articles de blog --> 
-    <p>3) TODO: Ajouter 2 articles de blog </p>
-    <a href="arlecchino.html" style="color: red; font-weight: bold;">lien1</a>
-    <p></p>
-    <a href="an-awsome-title.html" style="color: red; font-weight: bold;">lien2</a>
-    <section>
-        <!-- 2) TODO: Créer des pages d'articles -->
+    <!-- 3) TODO: Ajouter 2 articles de blog -->    <section>
+        
+<a href="an-awsome-title.html">Titre impressionnant</a><!-- 2) TODO: Créer 
+des pages d'articles -->
         <h2><a href="/arlecchino.html">Arlecchino</a></h2>
         <time datetime="2021-02-03"><a href="/an-awesome-title.html">Feb 3, 2021</a></time>
         <p>
